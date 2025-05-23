@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "A-MP-A-200-020 M\xD8BLERINGSPLAN 02_0": -1975572651594308987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
